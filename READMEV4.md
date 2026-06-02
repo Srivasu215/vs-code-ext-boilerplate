@@ -87,11 +87,11 @@ vs-code-ext-boilerplate
 
 # 🧠 Built With
 
-* Node.js (https://nodejs.org)
-* Express.js (https://expressjs.com)
-* VS Code Extension API (https://code.visualstudio.com/)
+* Node.js
+* Express.js
 * JavaScript
 * HTML5
+* VS Code Extension API
 
 ---
 
@@ -105,26 +105,6 @@ MIT License
 
 If you like this project:
 
-* ⭐ Star the Repository
-
-  ```md
-  (https://github.com/keshavsoft/vs-code-ext-boilerplate)
-  ```
-
-* 🍴 Fork the Repository
-
-  ```md
-  (https://github.com/your-username/vs-code-ext-boilerplate/fork)
-  ```
-
-* 🚀 Share with Developers
-
-  ```md
-  (https://marketplace.visualstudio.com/items?itemName=KeshavSoft.vs-Ext-BoilerPlate)
-  ```
-
-* 🛒 VS Code Marketplace Extension
-
-  ```md
-  (https://marketplace.visualstudio.com/items?itemName=KeshavSoft.vs-Ext-BoilerPlate)
-  ```
+* ⭐ Star the repository
+* 🍴 Fork the project
+* 🚀 Share with developers
